@@ -1,4 +1,5 @@
 // oppgave001.js IS-114 Tema001
+/*
   Hva er typen til variablene definert under? 
   Bevis ved å bruke det reserverte ordet i JavaScript typeof 
   og skriv ut resultater til konsollen. 
